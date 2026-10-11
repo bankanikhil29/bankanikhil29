@@ -14,7 +14,6 @@ Ex-software engineer (Walmart Global Tech), ISB MBA. Today I run provider-data v
 - **End-to-end ownership**, with close attention to detail.
 - **Customer empathy**: customers like working with me because I take their problem seriously.
 - **System design**: I was a senior developer before I moved to product.
-- **Scale in mind**: I bring tech debt to the surface before it slows the team down.
 
 ### Case studies
 
